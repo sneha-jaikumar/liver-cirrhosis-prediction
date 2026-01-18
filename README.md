@@ -1,5 +1,4 @@
-# COMP562 Final Project
-COMP 562 Final Paper
+# Liver Cirrhosis Prediction
 
 Authors: Sneha Jaikumar, Guning (Emily) Shen, Shefali Pai, Annabelle Jiang
 
